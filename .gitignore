@@ -1,1 +1,3 @@
+# Ignore Excel analysis output files
+sensor_data_analyzed.xlsx
 sensor_data_analyzed.csv
